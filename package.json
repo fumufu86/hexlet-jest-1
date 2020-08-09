@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "This is study assignment from Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ingo-o/hexlet-jest.git"
+  },
+  "author": "Ingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ingo-o/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Ingo-o/hexlet-jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.2.2",
+    "jest": "^26.2.2"
+  }
+}
