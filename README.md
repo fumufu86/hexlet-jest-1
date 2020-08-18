@@ -1,4 +1,4 @@
 # hexlet-jest
 This is study assignment from Hexlet 🎓
 
-[![github actions](https://github.com/Ingo-o/hexlet-jest/workflows/github%20actions/badge.svg)]
+[![github actions](https://github.com/Ingo-o/hexlet-jest/workflows/github%20actions/badge.svg)](https://github.com/Ingo-o/hexlet-jest/actions)
